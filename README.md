@@ -43,7 +43,7 @@ La instrucción iniciará el proyecto en su entorno local y se abrirá en el nav
         repelon:rp_gc_predios_catastro
         repelon:rp_u_perimetro
 
-    2.5.2 Al darle click a la capa de u_terreno se debe mostrar UN MODAL del predio con los siguientes atributos:
+    2.5.2 Al darle click a la capa de rp_gc_predios_catastro se debe mostrar UN MODAL del predio con los siguientes atributos:
 
     1. codigo
     2. area
